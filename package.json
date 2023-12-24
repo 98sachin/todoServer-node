@@ -1,0 +1,23 @@
+{
+  "name": "todoserver1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/98sachin/todoServer1.git"
+  },
+  "author": "sachin sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/98sachin/todoServer1/issues"
+  },
+  "homepage": "https://github.com/98sachin/todoServer1#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
